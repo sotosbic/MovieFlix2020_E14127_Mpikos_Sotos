@@ -7,3 +7,5 @@
 Μετά για την σύνδεση της mongo με το python script και την εννοποίηση των images, έχουμε το docker-compose.yml, όπου μέσα βάζουμε και τον ζητούμενο φάκελο 
 
 Τέλος, έχουμε και τα αρχεία της python (main και mongo).
+
+Τα endpoints θα τα βρείτε στο αρχείο main.py
